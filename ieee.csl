@@ -363,7 +363,6 @@
         </if>
         <else-if type="paper-conference speech" match="any">
           <group delimiter=", " suffix=", ">
-            <text macro="title"/
             <text macro="event"/>
             <text macro="editor"/>
           </group>
